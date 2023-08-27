@@ -16,3 +16,6 @@ Welcome to the **Interactive Shopping Cart Project**! This project showcases a d
 - CSS for styling the user interface and enhancing...
 - JavaScript for implementing interactivity and managing...
 - Firebase for storing data.
+
+## Demo
+-For a live demonstration of the Interactive Shopping Cart with Firebase integration, please visit https://saurabhd16.github.io/addtolist.github.io/.
