@@ -20,11 +20,6 @@ buttonclick.addEventListener("click", function () {
     add_to_list.innerHTML += `<li>${inputval}</li>`;
 });
 
-/*document.getElementById('list_items').addEventListener('click',function(a){
-    let deleteval=a.target.parentNode
-    deleteval.remove();
-});*/
-
 add_to_list.addEventListener('click', function (event) {
     if (event.target.tagName === 'LI') {
         event.target.remove();
